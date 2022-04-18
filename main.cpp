@@ -1,4 +1,8 @@
 //учебная
+
+//ЯковенкгоМГ и СудаковАВ, КЭ-417 (2022)
+
+
 #include <iostream>
 
 using namespace std;
