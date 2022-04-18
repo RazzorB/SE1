@@ -8,6 +8,7 @@ int main()
 
     cout << "Enter X: "; cin >> x;
     cout << "Enter Y: "; cin >> y;
+    cout << x+y;
 
     return 0;
 }
