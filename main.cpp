@@ -15,6 +15,7 @@ int main()
     cout << "Enter Y: "; cin >> y;
     cout << x + y;
     cout << x - y;
-
+    cout << x * y;
+		
     return 0;
 }
