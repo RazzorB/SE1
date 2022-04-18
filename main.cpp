@@ -16,6 +16,7 @@ int main()
     cout << x + y;
     cout << x - y;
     cout << x * y;
-		
+    cout << x / y;
+
     return 0;
 }
