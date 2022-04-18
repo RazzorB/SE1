@@ -1,3 +1,4 @@
+//учебная
 #include <iostream>
 
 using namespace std;
